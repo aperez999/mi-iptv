@@ -1,0 +1,50 @@
+#EXTM3U
+# Lista personalizada de prueba
+# Fuentes: repositorio comunitario iptv-org (streams/co.m3u)
+# Disponibilidad, geobloqueo y compatibilidad con Samsung Tizen no verificados.
+# Los canales de pago solicitados (ESPN, History, H2) no se incluyen: no se agregan retransmisiones no autorizadas.
+
+#EXTINF:-1 group-title="Colombia",Caracol TV
+http://138.121.15.230:9002/CARACOL/index.m3u8
+
+#EXTINF:-1 group-title="Colombia",Canal RCN
+http://138.121.15.230:9002/RCN/index.m3u8
+
+#EXTINF:-1 group-title="Colombia",Teleantioquia
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia",Telecaribe
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia",Telemedellín
+https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia",Telecafé
+https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia",Canal TRO
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia",Canal Trece
+https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia",Teleislas
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia",Telepacífico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia",Canal Dos
+https://stream2.micanal2.tv/hls/canal2.m3u8
+
+#EXTINF:-1 group-title="Colombia",Canal Congreso
+http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
+
+#EXTINF:-1 group-title="Colombia",Citytv Bogotá
+http://138.121.15.230:9002/CITY-TV/index.m3u8
