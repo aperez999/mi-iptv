@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentales",Asharq Discovery (1080p)
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AutenticHistory.de@SD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" group-title="Documentales",Autentic History (1080p)
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRCN.co@SD" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="Colombia",Canal RCN (1080p)
+http://38.134.250.110:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="CaracolHD2.co@SD" tvg-logo="https://i.imgur.com/Fww94l9.png" group-title="Colombia",Caracol HD2 (1080p)
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="CaracolInternacional.co@SD" tvg-logo="https://i.imgur.com/h7LWbt5.png" group-title="Colombia",Caracol Internacional (1080p)
+http://45.5.117.57:8200/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co@SD" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Colombia",Caracol TV (1080p)
+http://38.190.100.202:8000/play/a09v/index.m3u8
+#EXTINF:-1 tvg-id="CaracolaTV.cl@SD" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="Colombia",Caracola TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
+#EXTINF:-1 tvg-id="CNDFilmDiscoveryChannel.cn@SD" tvg-logo="https://i.imgur.com/2FJfPDx.png" group-title="Documentales",CND Film Discovery Channel (576p)
+http://125.210.152.18:9090/live/FXZL_750.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentales",Discovery Channel (United States) (1080p) [Geo-blocked]
+http://212.5.144.156:8080/discovery/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentales",Discovery Channel Latin America (1080p)
+http://45.171.64.30:6060/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentales",Discovery Channel Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelMiddleEastAfrica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentales",Discovery Channel Middle East & Africa (720p)
+http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png" group-title="Documentales",Discovery History
+http://37.49.224.5/stream/12/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" group-title="Documentales",Discovery Home & Health Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Panregional" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Documentales",Discovery Kids Latin America (1080p)
+http://181.224.200.5:2277/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Chile" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Documentales",Discovery Kids Latin America Chile (1080p)
+http://38.224.231.176:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Colombia" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Documentales",Discovery Kids Latin America Colombia (1080p)
+http://38.134.250.110:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" group-title="Documentales",Discovery Science Latin America (720p)
+http://45.171.64.30:6060/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us@SD" tvg-logo="https://i.imgur.com/AqR0Jkn.png" group-title="Documentales",Discovery Theater Latin America (1080p)
+http://181.224.200.5:2277/play/a0bj/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Discovery_Turbo_2025.svg/1920px-Discovery_Turbo_2025.svg.png" group-title="Documentales",Discovery Turbo (United States) (720p)
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/1pQPxu3.png" group-title="Documentales",Discovery Turbo Latin America (1080p)
+http://38.134.250.110:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.us@LatinAmerica" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Documentales",Discovery World (1080p)
+http://168.196.127.137:6001/play/a097/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us@HD" tvg-logo="https://i.imgur.com/00tsvjE.png" group-title="Deportes",ESPN 2 (United States) HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Deportes",ESPN 2 Latin America Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 Latin America Colombia (1080p)
+http://38.211.118.56:50002/play/a0fa/index.m3u8
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-id="ESPN3LatinAmerica.us@Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Deportes",ESPN 3 Latin America Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN4LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-id="ESPN6LatinAmerica.us@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-id="ESPN7LatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Deportes",ESPN8: The Ocho (1080p)
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-id="ESPN.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN (United States) (432p)
+http://tvsen7.aynascope.net/espn/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="Deportes",ESPN (United States) HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPNDeportes.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="Deportes",ESPN Deportes HD (720p)
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Deportes",ESPN Latin America Argentina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN Latin America Colombia (1080p)
+http://181.78.211.244:8005/play/a08q/index.m3u8
+#EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" group-title="Deportes",ESPN Latin America Mexico
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+https://lilac19.pontiscloud.com/live/gt/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Deportes",ESPN Premium HD (1080p)
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Deportes",ESPNU HD (720p)
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="Documentales",HGTV (United States) (720p)
+http://tvsen7.aynascope.net/hgtv/index.m3u8
+#EXTINF:-1 tvg-id="HGTVAsia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="Documentales",HGTV Asia (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=99
+#EXTINF:-1 tvg-id="HGTVLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="Documentales",HGTV Latin America (1080p)
+http://38.87.224.19:2220/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="History2.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/960px-History2_logo_%282022%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Documentales",History2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_h2/playlist.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Documentales",History 2 Latin America (1080p)
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentales",History (United States) (720p)
+http://212.5.144.156:8080/history/index.m3u8
+#EXTINF:-1 tvg-id="HistoryAsia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentales",History Asia (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
+#EXTINF:-1 tvg-id="HistoryHit.uk@SD" tvg-logo="https://i.imgur.com/ulHoqlP.png" group-title="Documentales",History Hit (1080p)
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentales",History Latin America (1080p)
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" group-title="Documentales",History Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Documentales",History TV18 HD (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentales",Investigation Discovery (United States) (1080p) [Geo-blocked]
+http://212.5.144.156:8080/id/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentales",Investigation Discovery Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
+#EXTINF:-1 tvg-id="MilitaryHistory.us@SD" tvg-logo="https://i.imgur.com/S1SnpoA.png" http-referrer="https://bhoomtv.org/" http-user-agent="Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="Documentales",Military History (720p)
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2
+#EXTINF:-1 tvg-id="NoticiasRCN.co@SD" tvg-logo="https://i.imgur.com/FMX4QCM.png" group-title="Colombia",Noticias RCN (720p)
+https://jmp2.uk/plu-67d9b0ebc290c9499046e88f.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistory.us@US" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Documentales",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+#EXTINF:-1 tvg-id="PolsatViasatHistory.pl@SD" tvg-logo="https://i.imgur.com/X16UGUf.png" group-title="Documentales",Polsat Viasat History (1080p)
+http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
+#EXTINF:-1 tvg-id="RCNHD2.co@SD" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia",RCN HD2 (1080p)
+http://181.78.14.26:4000/play/a07m/index.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Colombia",RCN Mas (1080p)
+http://45.224.96.220:18000/play/a098/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Colombia",RCN Novelas (1080p)
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co@SD" tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Colombia",Teleantioquia (1080p)
+http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
+#EXTINF:-1 tvg-id="TeleantioquiaPlus.co@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/TeleantioquiaPlus.svg/revision/latest/scale-to-width-down/320?cb=20260826013823&path-prefix=es" group-title="Colombia",Teleantioquia Plus (1080p)
+http://200.122.223.13:55000/play/teleantioquia-go-tdt/index.m3u8
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Documentales",TLC Latin America (1080p)
+http://38.134.250.110:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Documentales",TLC Southeast Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://103.253.74.210:7070/stream/108/index.m3u8
+#EXTINF:-1 tvg-id="TrueHistory.us@SD" tvg-logo="https://i.imgur.com/1BHDGXx.png" group-title="Documentales",True History (720p)
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSHollywoodHistory.us@SD" tvg-logo="https://i.imgur.com/QtQGyMS.png" group-title="Documentales",TVS Hollywood History (582p)
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru@SD" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="Documentales",viju History (576p)
+http://46.53.200.153:7777/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win Sports (1080p)
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
